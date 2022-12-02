@@ -35,7 +35,3 @@ with open('/Users/nathanielmott/Desktop/aoc2-input.txt', 'r') as strat_guide:
         total_score += round_score
 print(total_score)
 
-# Part 2:
-
-#X-Lose, Y-Draw, Z-Win; Rock-1, Paper-2, Scissors-3
-
